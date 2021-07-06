@@ -69,13 +69,15 @@ h1{
 }
 .recipie-items{
     width:50%;
-    padding:5% 5% 0% 5%;
+    padding:25px;
+    box-shadow: 10px 10px 40px gray ;
 
 }
 
 .recipie-items img{
     width:80%;
     border-radius:5px;
+    
     
 }
 
