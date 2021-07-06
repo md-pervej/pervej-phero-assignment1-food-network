@@ -8,7 +8,7 @@ h1{
 .title{
     color:orange;
 }
-p{
+.food-des{
     margin-bottom:50px;
     font-size:1.5rem;
 }
@@ -24,10 +24,10 @@ p{
 
 }
 
-section{
+.flexible-container{
 
     display:flex;
-    margin-bottom:100px;
+    margin-bottom:50px;
 }
 .half-width{
     width:50%;
@@ -38,15 +38,31 @@ section{
 }
 .section-two{
     background-image:url(../images/shapes/7.png);
-    background-repeat:no-repeat;
-  
-   
+    background-repeat: no-repeat;
 
 }
+
 .half-width-about{
     margin-top:80px;
     padding-right:15%;
   
 }
+.recipie-header{
+    text-align:center;
+    width:50%;
+    margin:0 auto;
+}
+.recipie-items{
+    width:50%;
+    padding:5% 5% 0% 5%;
+
+}
+
+.recipie-items img{
+    width:70%;
+    border-radius:5px;
+    
+}
+
 
 
