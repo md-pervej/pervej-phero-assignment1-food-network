@@ -71,15 +71,18 @@ h1{
     width:50%;
     padding:25px;
     box-shadow: 10px 10px 40px gray ;
+    
 
 }
 
 .recipie-items img{
     width:80%;
-    border-radius:5px;
+    border-radius:30px;
+   padding-left:5%;
     
     
 }
+
 
 /*=========subscribe======= */
 .subscribe-info{
