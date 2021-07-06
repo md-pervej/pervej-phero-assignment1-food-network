@@ -1,3 +1,5 @@
+
+
 body{
     font-family: 'Roboto', sans-serif;
     margin:0;
@@ -27,7 +29,6 @@ h1{
 }
 
 .flexible-container{
-
     display:flex;
     margin-bottom:50px;
 }
@@ -41,6 +42,7 @@ h1{
 .section-two{
     background-image:url(../images/shapes/7.png);
     background-repeat: no-repeat;
+
 
 }
 
