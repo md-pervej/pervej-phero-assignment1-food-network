@@ -3,18 +3,21 @@
 body{
     font-family: 'Roboto', sans-serif;
     margin:0;
-    padding:0;
+    
 }
 h1{
     font-size:40px;
-    margin-bottom:0;
+   
 }
 .title{
     color:orange;
 }
+/* =====first_section==== */
 .food-des{
-    margin-bottom:50px;
-    font-size:1.5rem;
+    font-size:20px;
+    text-align:left;
+    color:#575757;
+    margin-bottom:35px;
 }
 .link-btn{
     text-decoration:none;
@@ -24,8 +27,7 @@ h1{
     padding:15px 40px;
     border-radius:10px;
     font-size:1.5rem;
-    
-
+    background-image:linear-gradient(orange, purple);
 }
 
 .flexible-container{
@@ -39,6 +41,7 @@ h1{
 .half-width img{
     width:70%;
 }
+
 .section-two{
     background-image:url(../images/shapes/7.png);
     background-repeat: no-repeat;
@@ -49,8 +52,15 @@ h1{
 .half-width-about{
     margin-top:80px;
     padding-right:15%;
-  
 }
+
+.half-width-about p{
+    text-align:left;
+    margin-bottom:50px;
+    
+}
+
+/*=========Recipie section======== */
 .recipie-header{
     text-align:center;
     width:50%;
@@ -68,20 +78,22 @@ h1{
     
 }
 
+/*=========subscribe======= */
 .subscribe-info{
     width:95%;
     text-align: center;
 }
 
+
+/* ======footer====== */
 footer{
     width:100%;
     background-color:#5B5B5B;
-    padding:15px;
-    
-}
-footer h1,p{
+    padding-top:50px;
+    padding-bottom:50px;
     text-align:center;
 }
+
  footer span{
      color:#AACCDD;
  }
