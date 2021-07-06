@@ -45,6 +45,7 @@ h1{
 .section-two{
     background-image:url(../images/shapes/7.png);
     background-repeat: no-repeat;
+    background-position: center;
 
 
 }
@@ -73,7 +74,7 @@ h1{
 }
 
 .recipie-items img{
-    width:70%;
+    width:80%;
     border-radius:5px;
     
 }
