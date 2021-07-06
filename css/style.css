@@ -1,3 +1,39 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
+h1{
+    font-size:40px;
+}
+.title{
+    color:orange;
+}
+p{
+    margin-bottom:50px;
+    font-size:1.5rem;
+}
+.link-btn{
+    text-decoration:none;
+    color:white;
+    background-color:#4CAF50;
+    font-weight:700;
+    padding:15px 40px;
+    border-radius:10px;
+    
+    
+
+}
+
+section{
+
+    display:flex;
+    margin-bottom:50px;
+}
+.half-width{
+    width:50%;
+    padding-left:10%;
+}
+.half-width img{
+    width:70%;
+}
+
+
