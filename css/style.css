@@ -3,6 +3,7 @@ body{
 }
 h1{
     font-size:40px;
+    margin-bottom:0;
 }
 .title{
     color:orange;
@@ -18,7 +19,7 @@ p{
     font-weight:700;
     padding:15px 40px;
     border-radius:10px;
-    
+    font-size:1.5rem;
     
 
 }
@@ -26,7 +27,7 @@ p{
 section{
 
     display:flex;
-    margin-bottom:50px;
+    margin-bottom:100px;
 }
 .half-width{
     width:50%;
@@ -34,6 +35,18 @@ section{
 }
 .half-width img{
     width:70%;
+}
+.section-two{
+    background-image:url(../images/shapes/7.png);
+    background-repeat:no-repeat;
+  
+   
+
+}
+.half-width-about{
+    margin-top:80px;
+    padding-right:15%;
+  
 }
 
 
